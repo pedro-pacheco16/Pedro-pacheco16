@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Pacheco</h1>
 <h3 align="center">Eu sou desenvolvedor de software FullStack no Brasil</h3>
 
-- 🔭 Atualmente estou trabalhando em [Loja de Semi Jóias]
+- 🔭 Atualmente estou trabalhando em Loja de Semi Jóias
 
 - 🌱 Atualmente estou estudando **.Net, React, Node.js, Docker, SQL**
 
