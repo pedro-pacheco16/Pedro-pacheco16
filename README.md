@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Pacheco</h1>
 <h3 align="center">Eu sou desenvolvedor de software FullStack no Brasil</h3>
 
-- 🔭 Atualmente estou trabalhando em Loja de Semi Jóias
+- 🔭 Atualmente estou trabalhando como Estagiário de Analytics no Bradesco
 
 - 🌱 Atualmente estou estudando **.Net, React, Node.js, Docker, SQL**
 
-- 👯 Colaborando com o [Projeto integrador](https://github.com/mateusSiqueira2004/DB-PIGeneration-DER)
+- 👯 Trabalhando no Projeto de Gestão de Acâdemia SpikeFitness
 
 - 💬 Me pergunte sobre **qualquer assunto, estou sempre disposto a ajudar**
 
